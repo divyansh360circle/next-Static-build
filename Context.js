@@ -14,6 +14,7 @@ export const Context = ({ children }) => {
         setCart
       }}
     >
+  
       {children}
     </UserContext.Provider>
   );
